@@ -12,7 +12,6 @@ Java
 # Requirements
 * Android Studio 
 
-for run it you need Android Studio.
 
 
 
